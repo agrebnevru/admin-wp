@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010.04.29 21:06:16.466.pas,C:\Users\MyIE\Documents\RAD Studio\Projects\Unit1.pas=D:\Programming\delfi_2010\__dok_paster\MainForm.pas</Transaction>
+    <Transaction>2010.04.29 21:06:16.485.dfm,C:\Users\MyIE\Documents\RAD Studio\Projects\Unit1.dfm=D:\Programming\delfi_2010\__dok_paster\MainForm.dfm</Transaction>
+    <Transaction>2010.04.29 21:06:26.313.dproj,C:\Users\MyIE\Documents\RAD Studio\Projects\Project1.dproj=D:\Programming\delfi_2010\__dok_paster\dok_paster.dproj</Transaction>
+    <Transaction>2010.05.07 22:57:13.511.pas,D:\Programming\delfi_2010\__dok_paster\Unit1.pas=D:\Programming\delfi_2010\__dok_paster\SettingsForm.pas</Transaction>
+    <Transaction>2010.05.07 22:57:13.528.dfm,D:\Programming\delfi_2010\__dok_paster\Unit1.dfm=D:\Programming\delfi_2010\__dok_paster\SettingsForm.dfm</Transaction>
+    <Transaction>2010.05.08 10:37:01.760.pas,D:\Programming\delfi_2010\__dok_paster\Unit1.pas=D:\Programming\delfi_2010\__dok_paster\PopupForm.pas</Transaction>
+    <Transaction>2010.05.08 10:37:01.771.dfm,D:\Programming\delfi_2010\__dok_paster\Unit1.dfm=D:\Programming\delfi_2010\__dok_paster\PopupForm.dfm</Transaction>
+    <Transaction>2010.05.09 10:26:54.723.pas,D:\Programming\delfi_2010\__dok_paster\Unit1.pas=D:\Programming\delfi_2010\__dok_paster\AddNewDomenForm.pas</Transaction>
+    <Transaction>2010.05.09 10:26:54.744.dfm,D:\Programming\delfi_2010\__dok_paster\Unit1.dfm=D:\Programming\delfi_2010\__dok_paster\AddNewDomenForm.dfm</Transaction>
+    <Transaction>2010.06.08 11:14:53.668.pas,D:\Programming\delfi_2010\__dok_paster\Unit1.pas=D:\Programming\delfi_2010\__dok_paster\AboutForm.pas</Transaction>
+    <Transaction>2010.06.08 11:14:53.668.dfm,D:\Programming\delfi_2010\__dok_paster\Unit1.dfm=D:\Programming\delfi_2010\__dok_paster\AboutForm.dfm</Transaction>
+    <Transaction>2010.06.08 11:43:08.067.pas,D:\Programming\delfi_2010\__dok_paster\Unit1.pas=D:\Programming\delfi_2010\__dok_paster\RegistrationForm.pas</Transaction>
+    <Transaction>2010.06.08 11:43:08.067.dfm,D:\Programming\delfi_2010\__dok_paster\Unit1.dfm=D:\Programming\delfi_2010\__dok_paster\RegistrationForm.dfm</Transaction>
+    <Transaction>2010.06.08 12:07:45.733.pas,D:\Programming\delfi_2010\__dok_paster\Unit1.pas=D:\Programming\delfi_2010\__dok_paster\RegistrationThread.pas</Transaction>
+    <Transaction>2010.06.09 16:17:12.396.pas,D:\Programming\delfi_2010\__dok_paster\Unit1.pas=D:\Programming\delfi_2010\__dok_paster\CheckRegistrationThread.pas</Transaction>
+    <Transaction>2010.06.09 16:20:00.776.pas,D:\Programming\delfi_2010\__dok_paster\CheckRegistrationThread.pas=</Transaction>
+    <Transaction>2010.06.25 21:40:29.510.pas,D:\Programming\delfi_2010\__dok_paster\Unit1.pas=D:\Programming\delfi_2010\__dok_paster\CheckNewVerThread.pas</Transaction>
+    <Transaction>2010.06.26 10:59:28.790.dproj,D:\Programming\delfi_2010\__dok_paster\dok_paster.dproj=D:\Programming\delfi_2010\__dok_paster\admin_wp.dproj</Transaction>
+    <Transaction>2010.07.20 10:59:53.443.pas,D:\Programming\delfi_2010\__admin_wp\Unit1.pas=D:\Programming\delfi_2010\__admin_wp\AuthorizationThread.pas</Transaction>
+    <Transaction>2010.07.20 11:00:34.352.pas,D:\Programming\delfi_2010\__admin_wp\Unit1.pas=D:\Programming\delfi_2010\__admin_wp\AddLinkThread.pas</Transaction>
+    <Transaction>2010.07.20 12:47:34.107.pas,D:\Programming\delfi_2010\__admin_wp\AuthorizationThread.pas=</Transaction>
+    <Transaction>2010.07.20 13:02:49.787.pas,D:\Programming\delfi_2010\__admin_wp\Unit1.pas=D:\Programming\delfi_2010\__admin_wp\DeletPartThread.pas</Transaction>
+    <Transaction>2010.07.20 13:14:16.480.pas,D:\Programming\delfi_2010\__admin_wp\Unit1.pas=D:\Programming\delfi_2010\__admin_wp\SettingsThrThread.pas</Transaction>
+    <Transaction>2010.07.20 13:14:52.331.pas,D:\Programming\delfi_2010\__admin_wp\Unit1.pas=D:\Programming\delfi_2010\__admin_wp\SettingsThr2Thread.pas</Transaction>
+  </Transactions>
+</BorlandProject>

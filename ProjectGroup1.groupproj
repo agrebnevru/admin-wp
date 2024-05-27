@@ -1,0 +1,48 @@
+﻿	<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+		<PropertyGroup>
+			<ProjectGuid>{00C47041-4BA8-42A2-BA1C-B213B57D1EF2}</ProjectGuid>
+		</PropertyGroup>
+		<ItemGroup>
+			<Projects Include="dok_paster.dproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="..\primer\wp_login.dproj">
+				<Dependencies/>
+			</Projects>
+		</ItemGroup>
+		<ProjectExtensions>
+			<Borland.Personality>Default.Personality.12</Borland.Personality>
+			<Borland.ProjectType/>
+			<BorlandProject>
+				<Default.Personality/>
+			</BorlandProject>
+		</ProjectExtensions>
+		<Target Name="dok_paster">
+			<MSBuild Projects="dok_paster.dproj"/>
+		</Target>
+		<Target Name="dok_paster:Clean">
+			<MSBuild Targets="Clean" Projects="dok_paster.dproj"/>
+		</Target>
+		<Target Name="dok_paster:Make">
+			<MSBuild Targets="Make" Projects="dok_paster.dproj"/>
+		</Target>
+		<Target Name="wp_login">
+			<MSBuild Projects="..\primer\wp_login.dproj"/>
+		</Target>
+		<Target Name="wp_login:Clean">
+			<MSBuild Targets="Clean" Projects="..\primer\wp_login.dproj"/>
+		</Target>
+		<Target Name="wp_login:Make">
+			<MSBuild Targets="Make" Projects="..\primer\wp_login.dproj"/>
+		</Target>
+		<Target Name="Build">
+			<CallTarget Targets="dok_paster;wp_login"/>
+		</Target>
+		<Target Name="Clean">
+			<CallTarget Targets="dok_paster:Clean;wp_login:Clean"/>
+		</Target>
+		<Target Name="Make">
+			<CallTarget Targets="dok_paster:Make;wp_login:Make"/>
+		</Target>
+		<Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+	</Project>
